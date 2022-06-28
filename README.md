@@ -4,6 +4,7 @@ pyMone collect BattleChronicles of player in Genshin Impact by genshin.py. This 
 NOW PNG FORMAT IS NOT AVAILABALE.
 
 For collect data you must input your ltuid ant ltoken:
+
 1.https://www.hoyolab.com/home
 2.F12
 3.Applications --> ltuid, ltoken
